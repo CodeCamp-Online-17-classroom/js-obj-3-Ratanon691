@@ -5,3 +5,4 @@
 - เพิ่ม property ชื่อ surname ให้มีค่าเท่ากับ Do
 - Update property name ให้มีค่าเป็น Matt
 - ลบ property namelog(user); // **
+  Rattanon Tunwittaya
